@@ -7,18 +7,10 @@ header-img: "img/about-bg.jpg"
 
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0"> 中文 Chinese </option>
-    <option value="1" selected> 英语 English </option>
+    <option value="0" selected> 英语 English </option>
+    <option value="1"> 中文 Chinese </option>
     <option value="2"> 日本語 Japanese </option>
 </select>
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-<br><br>
-    在日华人，打着咨询顾问的幌子，干着码农的活，做着当技术大牛的梦。<br><br>
-    尽量自己写一些干货，也有转载的，翻译的，目的只有一个，就是让看这个博客的人提供价值。希望这个博客的内容可以帮助你节省时间，把时间花在更美好的事情上。<br><br>
-
-</div>
 
 <!-- English Version -->
 <div class="en post-container">
@@ -40,7 +32,17 @@ header-img: "img/about-bg.jpg"
 
 </div>
 
+
 <!-- Chinese Version -->
+<div class="zh post-container">
+<br><br>
+    在日华人，打着咨询顾问的幌子，干着码农的活，做着当技术大牛的梦。<br><br>
+    尽量自己写一些干货，也有转载的，翻译的，目的只有一个，就是让看这个博客的人提供价值。希望这个博客的内容可以帮助你节省时间，把时间花在更美好的事情上。<br><br>
+
+</div>
+
+
+<!-- Japanese Version -->
 <div class="jp post-container">
 <br><br>
     Dingです。日本で働く中国人です。このブログを立ち上げた目的は私が書いた、または訳した仕事スキル、ナレッジやIT情報のトレンドなどを共有し、読んで頂く方に何らかの価値を提供できればと思います。できれば読者の時間を節約し、更に有意義のところで時間を消費でたら最高です。<br><br>
@@ -55,12 +57,12 @@ header-img: "img/about-bg.jpg"
     var $jp = document.querySelector(".jp");
     function onLanChange(index){
         if(index == 0){
-            $zh.style.display = "block";
-            $en.style.display = "none";
-            $jp.style.display = "none";
-        }else if(index == 1){
             $en.style.display = "block";
             $zh.style.display = "none";
+            $jp.style.display = "none";
+        }else if(index == 1){
+            $zh.style.display = "block";
+            $en.style.display = "none";
             $jp.style.display = "none";
         }else{
             $jp.style.display = "block";
