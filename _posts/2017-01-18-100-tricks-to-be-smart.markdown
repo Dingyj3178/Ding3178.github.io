@@ -39,7 +39,7 @@ tags:
 
 
 ## 关于本书
-前几天在网上看到一篇特别有意思的文章，内容是说10种让你在会议中看起来非常聪明的小把戏。本人作为一名咨（I）询（T）顾(min)问（gong），看万之后深感相见恨晚。后来才发现居然这10中把戏出自一本叫做 100 Tricks To Appear Smart in Meetngs的书。在咨询顾问这个行业中，使用书中描述的把戏的人一抓一大把。先不谈他们是真聪明还是像书中所说的只是在为了让自己看起来聪明。在会议中让自己看起来聪明过人，确实是可以吸引到比如Leader，PM之类的Key Person的注意，同时让自己有更多的机会。
+前几天在网上看到一篇特别有意思的文章，内容是说10种让你在会议中看起来非常聪明的小把戏。本人作为一名咨（I）询（T）顾(min)问（gong），看万之后深感相见恨晚。后来才发现居然这10种把戏出自一本叫做 100 Tricks To Appear Smart in Meetngs的书。在咨询顾问这个行业中，使用书中描述的把戏的人一抓一大把。先不谈他们是真聪明还是像书中所说的只是在为了让自己看起来聪明。在会议中让自己看起来聪明过人，确实是可以吸引到比如Leader，PM之类的Key Person的注意，同时让自己有更多的机会。
 引用作者的话就是
 
 > The smart you appear, The more meetings youll be invited to. the more opportunities you'll have to appaer smart.
