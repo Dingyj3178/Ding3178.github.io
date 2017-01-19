@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[Reading Notes]100 Tricks To Appear Smart in Meetngs"
+title:      "[Reading Notes] 100 Tricks To Appear Smart in Meetngs"
 subtitle:   "职场里如何装的好"
 date:       2017-01-18
 author:     "Ding"
