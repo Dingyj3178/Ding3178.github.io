@@ -52,8 +52,6 @@ Derive from the original **AT&T Unix**, Developed in the 1970s at **Bell Labs** 
 Bell 和 AT&A 在那时已经是一家了，可以看到那时的通信公司真是一线 IT 公司呢。
 **C 语言也是 Bell Labs 的产物**，从一开始就是为了用于 Unix 而设计出来的。所以 Unix （在 73 年用 C 重写）在高校流行后，C 语言也获得了广泛支持。
 
-
-
 AT&T licensed Unix to outside parties(第三方) from the late 1970s, leading to a variety of both **academic** (最有有名的 BSD ) and **commercial** (Microsoft Xenix, IBM AIX, SunOS Solaris)
 
 - #### Xenix
