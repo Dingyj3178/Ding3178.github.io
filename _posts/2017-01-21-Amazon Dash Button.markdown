@@ -65,7 +65,7 @@ Amazon Dash Button现在做的，正是在为厂商节省这部分的费用。�
 ---
 
 
-## <a name="marketing2"></a> 营销层面 (消费者)
+## <a name="marketing2"></a> 营销层面 (消费者篇)
 
 
 “Amazon卖的产品比药妆店卖的贵才不会有人去用。”
