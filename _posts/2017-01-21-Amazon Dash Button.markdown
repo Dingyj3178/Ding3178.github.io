@@ -37,7 +37,7 @@ Amazon Dash Button是通过商业模式逆向设计出来的硬件硬件，传�
 如果你看一下提供Amazon Dash Button服务的厂商，基本全是消费品，并且都属于**低关联性商品**。
 - **低关联性商品**指的是消费者的思考和购买行为的关联性非常低的商品。举个几个简单的例子。洗衣粉，矿泉水，厕纸都属于低关联性商品。买哪一家的产品其实都没有太大差别。价格也非常的接近。
 
-![Alt text](img/in-post/post-amazon-dash-button//1484983164128.png)
+![Alt text](/img/in-post/post-amazon-dash-button//1484983164128.png)
 
 <br>
 低参与度的商品卖的好不好，不夸张地说，几乎是由广告决定的。买哪一家的产品效果都差不多，买的时候当然是买经常广告里听到的牌子。
@@ -61,7 +61,7 @@ Amazon Dash Button现在做的，正是在为厂商节省这部分的费用。�
 
 “Amazon卖的产品比药妆店卖的贵才不会有人去用。”
 这句话前半部分是对的，但是后半部分绝对是假话。
-![Alt text](img/in-post/post-amazon-dash-button//1485013064482.png)
+![Alt text](/img/in-post/post-amazon-dash-button//1485013064482.png)
 
 低关联性商品，买哪一个都没有太大差别，买的花就买耳熟能详的牌子， 在店里的话哪个便宜买哪个。但是Amazon Dash Button做了一个没有比较的市场，对于这类商品，顾客关心的不是价格和性能，最关心的是**商品用完了**这件事情。
 
