@@ -16,6 +16,8 @@ tags:
  
 
 # Amazon Dash Button到底厉害在哪里
+去年Amazon发布了一款叫做Amazon Dash Button，刚开始觉得这又将是一款和Amazon的手机一样的产品。但是后来发现Amazon其实在下一盘大棋。
+![Alt text](/img/in-post/post-amazon-dash-button//post-amazon-dash-button-3.gif)
 
 对于Amazon Dash Button，每次和别人谈到这个话题的时候，
 “一个电池只能用一年的装置实在是不够用”
