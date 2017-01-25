@@ -47,7 +47,7 @@ tags:
 ### 美团
 ![Alt text](/img/in-post/post-china-it-better-than-Japan/1483678895071.jpg)
 美团は3年前アメリカで流行していた共同購入型クーポンサイト「[Groupon](https://www.groupon.jp/browse/shinzyuku?lat=35.6894875&lng=139.69170639999993&administrative_area=Tokyo&address=Tokyo&hasLocCookie=true&locale=ja_JP)」の中国版ですが、現在の美团は中国国民の外食・エンタテインメントの入り口となっています。分かりやすく一個例をあげましょう。例えば今日は映画を見たいとしましょう。
-![@美团を使って映画を見る流れ|center|0x800](/img/in-post/post-china-it-better-than-Japan/美团看电影2.gif)
+![@美团を使って映画を見る流れ|center|0x500](/img/in-post/post-china-it-better-than-Japan/美团看电影2.gif)
 
 1. 美团のアプリを開く
 2. 映画カテゴリをクリック
@@ -69,7 +69,7 @@ tags:
 ![Alt text](/img/in-post/post-china-it-better-than-Japan/1483700731799.jpg)
 滴滴も美团と同じように、アメリカのUberの中国版であるが、Uberは中国市場参入し、1年以上滴滴とシェアを奪い続けた結果、[Uber Chinaは滴滴に買収された](http://jp.techcrunch.com/2016/08/02/20160801didi-chuxing-confirms-it-is-buying-ubers-business-in-china/)ことになりました。
 ここでカーシェアサービスは日本に無いことは言いたいわけではない。重要なのはDiDiでは、プライベートタクシーではなく、一般的なタクシーを呼ぶことも可能です。
-![@DiDiを使ってタクシーを呼ぶ|center|0x800](/img/in-post/post-china-it-better-than-Japan/DIDi.gif)
+![@DiDiを使ってタクシーを呼ぶ|center|0x500](/img/in-post/post-china-it-better-than-Japan/DIDi.gif)
 
 自営業の運転手は勿論、中国では多くのタクシー運転手もDiDiを使用しているため、タクシーも簡単に呼べます。また、急ぎの場合、100円、300円の追加料金を払って、早くタクシーを呼ぶことも可能です。中国の家から出掛ける際は事前にDiDiでタクシーを呼んで、タクシーが来るまでに家で別のことをやれます。日本のように、家/店の前でタクシーを待つことはなくなります。
 > 2017年1月25日追記、追加料金を払って早く来てもらうサービスは近日中廃止されることはDIDIから発表されました。
