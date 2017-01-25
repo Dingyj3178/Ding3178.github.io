@@ -24,7 +24,7 @@ tags:
 
 ### 支付宝(Aplipay)
 まずは多くのサービスが成り立ってる前提であるアリババが提供している支払いサービス「支付宝」を紹介します。海外では「Alipay」として知られている。日本では同等なサービスは存在しません。
-![Alt text](/img/post-china-it-better-than-Japan/1483677413781.jpg)
+![Alt text](/img/in-post/post-china-it-better-than-Japan/1483677413781.jpg)
 まず支付宝ができることは：
 
 1. 携帯のキャリア料金を支払う
@@ -38,16 +38,16 @@ tags:
 もう少し詳細の内容はこのサイトから見れます。
 [中国の「支付宝（アリペイ）」が便利すぎて凄すぎる！](http://working-asia.com/zhifubao/)
 一見上記サービスは日本でもできるじゃんと思いますが、一つのまとめているのは無いだろう。また、日本の電子マネは基本的に事前チャージ型と月末払いとなっているのに対し、**支付宝はすべてリアルタイムで口座から引き落とされます。**
-![@スーパーでの支付宝による支払い](/img/post-china-it-better-than-Japan/1483677331288.jpg)
+![@スーパーでの支付宝による支払い](/img/in-post/post-china-it-better-than-Japan/1483677331288.jpg)
 
 もともと支付宝は中国のPaypalと呼ばれていたが、今の支付宝の役割はPaypalを超えている。支付宝にユーザーの銀行口座を登録するだけで、オンライン/オフラインの決済を一括でできる。口座の登録も窓口に行かなくて良く、支付宝のサイト上で5分で済ませる。
 もう一つ支付宝に関してすごいのは自営業ユーザーの導入の便利さです。日本では自営業の方はもしカード決済または電子マネ決済を導入するには少し手間かかると思います。申し込みの手続きやカードリーダーも必要だろう。ただし、支付宝を使用すると、必要となるのはネットに接続できるスマートフォンです。そのために支付宝は急速に中国で広がっています。スーパーやコンビニだけではなく、ジムのフロント、眼鏡屋さんとか、中国の方は携帯だけで出掛けられる日が早く来る気がします。
 
 
 ### 美团
-![Alt text](/img/post-china-it-better-than-Japan/1483678895071.jpg)
+![Alt text](/img/in-post/post-china-it-better-than-Japan/1483678895071.jpg)
 美团は3年前アメリカで流行していた共同購入型クーポンサイト「[Groupon](https://www.groupon.jp/browse/shinzyuku?lat=35.6894875&lng=139.69170639999993&administrative_area=Tokyo&address=Tokyo&hasLocCookie=true&locale=ja_JP)」の中国版ですが、現在の美团は中国国民の外食・エンタテインメントの入り口となっています。分かりやすく一個例をあげましょう。例えば今日は映画を見たいとしましょう。
-![@美团を使って映画を見る流れ|center|0x800](/img/post-china-it-better-than-Japan/美团看电影2.gif)
+![@美团を使って映画を見る流れ|center|0x800](/img/in-post/post-china-it-better-than-Japan/美团看电影2.gif)
 
 1. 美团のアプリを開く
 2. 映画カテゴリをクリック
@@ -66,10 +66,10 @@ tags:
 映画だけではなく、多くの店は美团でクーポンを提供しています。レストラン、ホテル等全部安く、早く購入できるようになっています。重要なのは一個のアプリにまとめていることです。日本の方はなかなかいい感じのアプリはないと思います。
 
 ### 滴滴(DiDi)
-![Alt text](/img/post-china-it-better-than-Japan/1483700731799.jpg)
+![Alt text](/img/in-post/post-china-it-better-than-Japan/1483700731799.jpg)
 滴滴も美团と同じように、アメリカのUberの中国版であるが、Uberは中国市場参入し、1年以上滴滴とシェアを奪い続けた結果、[Uber Chinaは滴滴に買収された](http://jp.techcrunch.com/2016/08/02/20160801didi-chuxing-confirms-it-is-buying-ubers-business-in-china/)ことになりました。
 ここでカーシェアサービスは日本に無いことは言いたいわけではない。重要なのはDiDiでは、プライベートタクシーではなく、一般的なタクシーを呼ぶことも可能です。
-![@DiDiを使ってタクシーを呼ぶ|center|0x800](/img/post-china-it-better-than-Japan/DIDi.gif)
+![@DiDiを使ってタクシーを呼ぶ|center|0x800](/img/in-post/post-china-it-better-than-Japan/DIDi.gif)
 
 自営業の運転手は勿論、中国では多くのタクシー運転手もDiDiを使用しているため、タクシーも簡単に呼べます。また、急ぎの場合、100円、300円の追加料金を払って、早くタクシーを呼ぶことも可能です。中国の家から出掛ける際は事前にDiDiでタクシーを呼んで、タクシーが来るまでに家で別のことをやれます。日本のように、家/店の前でタクシーを待つことはなくなります。
 > 2017年1月25日追記、追加料金を払って早く来てもらうサービスは近日中廃止されることはDIDIから発表されました。
@@ -78,10 +78,10 @@ tags:
 上記のようなサービスは日本に無いから中国の方は便利だと感じますが、同じ存在するサービスもデザインを重視する日本のUXも負けている…
 
 一個例を上げましょう。
-![@楽天にある一般的な購入画面](/img/post-china-it-better-than-Japan/1483701974328.jpg)
+![@楽天にある一般的な購入画面](/img/in-post/post-china-it-better-than-Japan/1483701974328.jpg)
   
 アリババの方を見てみましょう。
-![アリババのTianmao](/img/post-china-it-better-than-Japan/1483702068387.jpg)
+![アリババのTianmao](/img/in-post/post-china-it-better-than-Japan/1483702068387.jpg)
 
 - 色の選択はラジオボックス
 - 買い物かごに入れるボタンは非常にわかりづらい
