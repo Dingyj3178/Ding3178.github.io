@@ -7,6 +7,7 @@ author:     "Ding"
 header-img: "img/post-bg-china-it-better-than-Japan.jpg"
 tags:
     - Tech
+    - China IT
 ---
 
 
