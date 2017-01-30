@@ -5,6 +5,7 @@ subtitle:   "猛ダッシュの中国ITインフラ"
 date:       2017-01-25
 author:     "Ding"
 header-img: "img/post-bg-china-it-better-than-Japan.jpg"
+catalog: true
 tags:
     - Tech
     - China IT

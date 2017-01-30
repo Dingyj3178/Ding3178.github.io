@@ -5,6 +5,7 @@ subtitle:   "从商业模式逆向推算出来的IoT产品"
 date:       2017-01-21
 author:     "Ding"
 header-img: "img/psot-bg-amazon-dash-button.jpg"
+catalog: true
 tags:
     - Tech
     - IoT
