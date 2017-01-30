@@ -10,7 +10,8 @@ tags:
     - China IT
 ---
 
-* Will be replaced with the ToC, excluding the "Contents" header
+* 中国での生活は日本より便利になった件
+* 支付宝(Aplipay)
 {:toc}
 
 # 中国での生活は日本より便利になった件
