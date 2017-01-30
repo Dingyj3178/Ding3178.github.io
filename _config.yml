@@ -82,10 +82,10 @@ featured-condition-size: 5              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog(Blog Template)Åh,
+        title: "Hux Blog(Blog Template)",
         href: "http://huangxuan.me"
     },{
-        title: ÅgRei SasakiÅh,
+        title: "Rei Sasaki",
         href: "https://twitter.com/ray_30cm_ns"
     },{
         title: "Bar",
