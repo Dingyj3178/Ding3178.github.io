@@ -32,11 +32,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: ['jekyll-paginate', 'jekyll-multiple-languages']
-languages:          [ÅejpÅf, 'cn']
-
-# If not config, the first of languages will be the default
-language_default:   ÅecnÅf
+gems: [jekyll-paginate]
 
 
 
