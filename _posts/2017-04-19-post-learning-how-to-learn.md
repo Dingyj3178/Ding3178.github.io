@@ -9,7 +9,7 @@ catalog: true
 tags:
     - Knowledge Management
 ---
-社会人になっても学ぶことが止まりません。Courseraで大人気な「Learning How to Learn」というコースを受けた。脳神経学の観点から学習することを解説してとてもこれからのキャリアに役に立ちそうのため、学習する際にまとめてノートを公開します。しっかり学びたい方は是非フルコースを受けることを推奨する。
+社会人になっても学ぶことが止まりません。Courseraで大人気の「Learning How to Learn」というコースを受けた。脳神経学の観点から学習することを解説してとてもこれからのキャリアに役に立ちそうのため、学習する際にまとめてノートを公開します。しっかり学びたい方は是非フルコースを受けることを推奨する。
 本コースの目的
 ![](/img/in-post/post-learning-how-to-learn/DraggedImage.png)
 # Week1
