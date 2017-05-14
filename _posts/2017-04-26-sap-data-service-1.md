@@ -15,6 +15,7 @@ tags:
 
 ![](/img/in-post/post-sap-data-service-1/19.3-4.png)
 > [Introduction to SAP Data Services](http://saphanatutorial.com/ntroduction-to-sap-data-services/)
+
 **Designer**: GUI編集ツール
 > This is the front end GUI (Graphical User Interface) tool where developers can login and build the jobs in SAP Data Services to move the data from one system to other or with-in the system and define the logic for transformations. 
 > To Open Data Service Designer go to Start Menu -\> All Programs -\> SAP Data Services (4.2 here) -\> Data Service Designer.
@@ -30,6 +31,7 @@ tags:
 **Job Server**: ジョブサーバー
 > This is one of the main server component in data services and is used to execute all the batch jobs created by developers in the system. Repositories should be attached to at least to one job server to execute the jobs in the repository, otherwise developer cannot execute the jobs.
 **注意：Real-Time JobとBatch Jobが存在する**
+
 **Management Console**:ジョブスケジューラ
 > It is a web based console for managing SAP Data Services like scheduling the jobs, looking at system statistics on memory usage, runtime of jobs, CPU utilization etc.
 
