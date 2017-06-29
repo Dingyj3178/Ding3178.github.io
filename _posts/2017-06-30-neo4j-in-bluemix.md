@@ -7,7 +7,9 @@ author:     "Ding"
 header-img: "img/home-bg-o.jpg"
 catalog: true
 tags:
-    - 
+    - Neo4j
+    - Bluemix
+    - Docker
 ---
 # グラフDB Neo4j をBluemixのContainerにインストールしてみた
 
