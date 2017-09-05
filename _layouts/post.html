@@ -136,7 +136,6 @@ layout: default
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
-        {% include Advertise.html %}
             <div class="
                 col-lg-2 col-lg-offset-0
                 visible-lg-block
@@ -157,7 +156,7 @@ layout: default
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 sidebar-container">
-
+                {% include Advertise.html %}
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>
