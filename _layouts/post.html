@@ -24,6 +24,7 @@ layout: default
 <header class="intro-header" >
     <div class="header-mask"></div>
     <div class="container">
+        {% include Advertise.html %}
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
@@ -57,9 +58,9 @@ layout: default
                 col-md-10 col-md-offset-1
                 post-container">
 
-        {% include Advertise.html %}
 
 				{{ content }}
+        {% include Advertise.html %}
 
                 <hr style="visibility: hidden;">
 
@@ -135,6 +136,7 @@ layout: default
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
+        {% include Advertise.html %}
             <div class="
                 col-lg-2 col-lg-offset-0
                 visible-lg-block
