@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "MacbookでPowerpointのスライドショーを見せながら内容を修正する方法"
-subtitle:   "MacbookでもOfficeを使わないといけない人達"
-date:       2017-05-29
+title:      "SAP HANAの自動採番"
+subtitle:   ""
+date:       2017-12-11
 author:     "Ding"
 header-img: "img/aaron-burden-36113.jpg"
 catalog: true
 tags:
-    - Macbook
-    - Powerpoint
+    - SAP
+    - HANA
 ---
 # SAP HANAの自動採番方法
 
