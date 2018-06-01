@@ -47,12 +47,12 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: disqus_3pHti6luFL
 
 # Duoshuo settings
-duoshuo_username: ding
+# duoshuo_username: ding
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -80,12 +80,12 @@ featured-condition-size: 5              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Hux Blog(Blog Template)",
-        href: "http://huangxuan.me"
-    },{
-        title: "Rei Sasaki",
-        href: "https://twitter.com/ray_30cm_ns"
-    }
-]
+# friends: [
+#     {
+#         title: "Hux Blog(Blog Template)",
+#         href: "http://huangxuan.me"
+#     },{
+#         title: "Rei Sasaki",
+#         href: "https://twitter.com/ray_30cm_ns"
+#     }
+# ]
