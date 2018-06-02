@@ -19,7 +19,6 @@ tags:
 最終的に紫色のところは追加したNeo4jのイメージとなります。
 
 ![](https://farm5.staticflickr.com/4257/34771024844_d354994813_o.jpg)
-![](https://s3.amazonaws.com/ding-blog/post-bg-china-it-better-than-Japan.jpg)
 まず「Upload an Image」をクリックして、表示ページのガイド通り Cloud Foundry CLI, Bluemix CLI, and Docker CLIをインストールします。
 
 ![](https://farm5.staticflickr.com/4255/35444191322_4cf3c30fae_o.jpg)
