@@ -136,7 +136,7 @@ body {
      */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 24px;
+  font-size: 20px;
   color: #404040;
   overflow-x: hidden;
 }
@@ -976,7 +976,7 @@ img::-moz-selection {
 /* Hux make all img responsible in post-container */
 .post-container img {
   display: block;
-  max-width: 100%;
+  max-width: 120%;
   height: auto;
   margin: 1.5em auto 1.6em auto;
 }
