@@ -6,6 +6,7 @@ date:       2017-04-26
 author:     "Ding"
 header-img: "img/aaron-burden-36113.jpg"
 catalog: true
+visible: 1
 tags:
     - SAP
 ---

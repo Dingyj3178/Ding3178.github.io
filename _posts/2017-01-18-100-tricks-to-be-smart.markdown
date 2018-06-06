@@ -6,6 +6,7 @@ date:       2017-01-18
 author:     "Ding"
 header-img: "img/post-bg-100-tricks.jpg"
 catalog: true
+visible: 1
 tags:
     - Reading Notes
     - Career

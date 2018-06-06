@@ -6,6 +6,7 @@ date:       2017-01-25
 author:     "Ding"
 header-img: "img/post-bg-china-it-better-than-Japan.jpg"
 catalog: true
+visible: 1
 tags:
     - Tech
     - China IT

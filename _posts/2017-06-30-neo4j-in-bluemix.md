@@ -6,6 +6,7 @@ date:       2017-06-30
 author:     "Ding"
 header-img: "img/home-bg-o.jpg"
 catalog: true
+visible: 1
 tags:
     - Neo4j
     - Bluemix

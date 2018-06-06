@@ -6,6 +6,7 @@ date:       2017-01-21
 author:     "Ding"
 header-img: "img/psot-bg-amazon-dash-button.jpg"
 catalog: true
+visible: 1
 tags:
     - Tech
     - IoT

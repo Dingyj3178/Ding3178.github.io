@@ -6,6 +6,7 @@ date:       2017-02-23
 author:     "Ding"
 header-img: "img/post-bg-Knowledge-Contents-boom--in-China.jpg"
 catalog: true
+visible: 1
 tags:
     - Tech
     - China IT

@@ -6,6 +6,7 @@ date:       2017-01-30
 author:     "Ding"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
+visible: 1
 tags:
     - Unix
     - Linux

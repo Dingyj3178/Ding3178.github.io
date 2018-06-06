@@ -6,6 +6,7 @@ date:       2017-05-14
 author:     "Ding"
 header-img: "img/aaron-burden-36113.jpg"
 catalog: true
+visible: 1
 tags:
     - Data Science
     - IBM Data Science Experience

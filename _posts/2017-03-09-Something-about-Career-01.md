@@ -6,6 +6,7 @@ date:       2017-03-09
 author:     "Ding"
 header-img: "img/post-Something-about-Career-01.jpg"
 catalog: true
+visible: 1
 tags:
     - Career
 ---
