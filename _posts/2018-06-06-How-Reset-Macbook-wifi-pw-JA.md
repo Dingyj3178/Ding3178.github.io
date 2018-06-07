@@ -21,9 +21,9 @@ MacOSには自分を狂わせることがある。それは、wifiパスワー�
 最終的に解決策が見つかりました。
 
 1. KEYCHAIN ACCESSを開く
-！[]（https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140824.jpg）
+![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140824.jpg)
 
 2.右上のWi-Fiホットスポットを検索し、削除を右クリックします。
-！[]（https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140941.jpg）
+![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140941.jpg)
 
 WiFi接続を再試行し、すぐWiFiパスワードを聞いてきた！

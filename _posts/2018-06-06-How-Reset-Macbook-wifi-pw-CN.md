@@ -11,6 +11,9 @@ tags:
     - Macbook
 ---
 # Mac OS如何快速重置Wi-FI密码
+[English](https://dingyj3178.github.io/2018/06/06/How-Reset-Macbook-wifi-pw-EM/)
+
+[Japanese]((https://dingyj3178.github.io/2018/06/06/How-Reset-Macbook-wifi-pw-JA/))
 
 MacOS有一点让我非常抓狂的地方，那就是在wifi密码更换时总是不重新询问密码。
 在客户公司出差，为了网络安全每个月都会在某个中午12点的时候更换密码。
