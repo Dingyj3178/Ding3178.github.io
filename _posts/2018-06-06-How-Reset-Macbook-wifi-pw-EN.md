@@ -1,27 +1,28 @@
 ---
 layout:     post
-title:      "Mac OS如何快速重置Wi-FI密码"
+title:      "MacOS How to reset Wifi Password"
 date:       2018-06-06
 author:     "Ding"
 catalog: true
 tags:
     - Life
-    - CN
+    - EN
     - Macbook
 visible: 0
 ---
-# Mac OS如何快速重置Wi-FI密码
+# MacOS How to reset Wifi Password
 
-MacOS有一点让我非常抓狂的地方，那就是在wifi密码更换时总是不重新询问密码。
-在客户公司出差，为了网络安全每个月都会在某个中午12点的时候更换密码。
+MacOS has one thing that makes me very crazy, when the wifi password is changed, it doesn't always ask for a password again. I have to wait for a long time!
+In my client company, the password will be changed every month at 12 pm for cyber security.
 
-到了12点...wifi突然断开，看着wifi的标志不断的转啊转啊，就是连不上，也不重新询问密码。真是捉急。
-最后终于找到了解决方法。
+At 12 o'clock... wifi suddenly disconnected, watching the wifi logo keep searching status, but not connected, And do not re-request the password!
 
-1. 打开KEYCHAIN ACCESS
+Finally found a solution.
+
+1. Open KEYCHAIN ACCESS
 ![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140824.jpg)
 
-2. 左上角搜索你的wifi热点名，然后右键点击删除。
+1. Search for your wifi hotspot in the upper right corner and right click on delete.
 ![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140941.jpg)
 
-再次尝试连接你的wifi，马上就重新询问你wifi密码了有没有！
+Try to connect your wifi again and it will immediately ask for your wifi password!

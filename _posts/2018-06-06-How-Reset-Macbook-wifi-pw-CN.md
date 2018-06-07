@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Mac OS如何快速重置Wi-FI密码"
+title:      "MacOS如何快速重置Wi-FI密码"
 date:       2018-06-06
 author:     "Ding"
 catalog: true
@@ -21,7 +21,7 @@ MacOS有一点让我非常抓狂的地方，那就是在wifi密码更换时总�
 1. 打开KEYCHAIN ACCESS
 ![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140824.jpg)
 
-2. 左上角搜索你的wifi热点名，然后右键点击删除。
+1. 右上角搜索你的wifi热点名，然后右键点击删除。
 ![](https://s3.amazonaws.com/ding-blog/blog/2018-06-06-140941.jpg)
 
 再次尝试连接你的wifi，马上就重新询问你wifi密码了有没有！
