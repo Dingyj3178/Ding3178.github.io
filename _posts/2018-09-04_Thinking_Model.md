@@ -2,7 +2,7 @@
 layout:     post
 title:      "Training Course Notes: Whole Brain Thinking Model "
 date:       2018-09-04
-header-img: "ben-sweet-456320-unsplash.jpg"
+header-img: "img/ben-sweet-456320-unsplash.jpg"
 author:     "Ding"
 catalog: true
 visible: 1
