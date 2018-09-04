@@ -10,6 +10,8 @@ tags:
     - Leadership
     - EN
 ---
+
+
 # Training Course Notes: Whole Brain Thinking Model 
 
 I recently participated in a training course which related to leadership. The most thing I learned is a thinking model which called Whole Brain Thinking.
