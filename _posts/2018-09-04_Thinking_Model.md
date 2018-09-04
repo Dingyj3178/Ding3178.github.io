@@ -7,9 +7,8 @@ author:     "Ding"
 catalog: true
 visible: 1
 tags:
-    - Life
+    - Leadership
     - EN
-    - Macbook
 ---
 # Training Course Notes: Whole Brain Thinking Model 
 
