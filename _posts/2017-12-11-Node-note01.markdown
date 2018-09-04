@@ -1,0 +1,103 @@
+---
+layout:     post
+title:      "Node.js学习笔记"
+subtitle:   ""
+date:       2017-01-18
+author:     "Ding"
+header-img: "img/post-bg-100-tricks.jpg"
+catalog: true
+visible: 1
+tags:
+    - Node.js
+---
+# 基础知识
+
+## 模块
+
+### 模块的加载
+在加载模块的时候，如果不写路径，则遵循以下规则：
+![](https://farm5.staticflickr.com/4545/38970885552_bc65235796_o.jpg)
+- 模块加载后会储存在缓存之中，如果有相同得文件引用同一个模块，则不用再次加载。
+- 加载模块的时候实际上是执行了模块内的JS文件的所有内容，所以在模块内部如果写了console的话会直接显示。
+
+### 模块的引入
+**注意点**
+
+exports是module.exports的快捷方式.但是如果对exports直接赋值对象。则会改变exports的指向从而导致根本拿不到exports.
+
+
+## 调试
+node.js有很多种调试方法，主要有Chrome的原生调试和用IDE（VS Code）来调。
+### Chrome
+
+首先进入```chrome://inspect```
+![](https://farm5.staticflickr.com/4545/38983723762_844e50deb7_o.jpg)
+
+然后在terminal执行需要调试的文件。
+
+例：
+```
+node --inspect --debug-brk  debug_01.js
+```
+
+![](https://farm5.staticflickr.com/4531/38133409695_bdc0765fa5_o.jpg)
+
+执行结束之后，Chrome上就可以识别到调试对象。
+![](https://farm5.staticflickr.com/4739/38133429225_8b13989c55_o.jpg)
+点进去之后就和Chrome的DevTool一样的了
+
+
+
+
+---
+
+# 看各种参考书的时候觉得有帮助的内容。
+
+## 1. **本段摘自「Node.js开发指南」**
+
+> #### 5.1.1 使用 http 模块
+> Node.js 由于不需要另外的 HTTP 服务器，因此减少了一层抽象，给性能带来不少提升，
+> 但同时也因此而提高了开发难度。举例来说，我们要实现一个 POST 数据的表单，例如:
+
+```
+<form method="post" action="http://localhost:3000/">
+<input type="text" name="title" />
+<textarea name="text"></textarea><input
+type="submit" />
+</form>
+```
+> 这个表单包含两个字段:title 和 text，提交时以 POST 的方式将请求发送给 http://localhost:3000/。假设我们要实现的功能是将这两个字段的东西原封不动地返回给用户， PHP只需写两行代码，储存为 index.php 放在网站根目录下即可:
+
+```
+echo $_POST['title'];
+echo $_POST['text'];
+
+```
+> 在 3.5.1 节中使用了类似下面的方法(用http模块):
+
+```
+var http = require('http');
+var querystring = require('querystring');
+var server = http.createServer(function(req, res) {
+var post = '';
+req.on('data', function(chunk) { post += chunk;
+});
+req.on('end', function() {
+post = querystring.parse(post);
+        res.write(post.title);
+        res.write(post.text);
+        res.end();
+}); }).listen(3000);
+```
+
+> &emsp;这种差别可能会让你大吃一惊，PHP 的实现要比Node.js容易得多。Node.js 完成这样一 个简单任务竟然如此复杂:你需要先创建一个 http 的实例，在其请求处理函数中手动编写 req 对象的事件监听器。当客户端数据到达时，将 POST 数据暂存在闭包的变量中，直到 end 事件触发，解析 POST 请求，处理后返回客户端。
+
+> &emsp;其实这个比较是不公平的，PHP 之所以显得简单并不是因为它没有做这些事，而是因为 PHP 已经将这些工作完全封装好了，只提供了一个高层的接口，而 Node.js 的 http 模块提 供的是底层的接口，尽管使用起来复杂，却可以让我们对 HTTP 协议的理解更加清晰。
+
+> &emsp;但是等等，我们并不是为了理解 HTTP 协议才来使用 Node.js 的，作为 Web 应用开发者， 我们不需要知道实现的细节，更不想与这些细节纠缠从而降低开发效率。难道 Node.js 的抽 象如此之差，把不该有的细节都暴露给了开发者吗?
+
+> &emsp;实际上，Node.js 虽然提供了 http 模块，却不是让你直接用这个模块进行 Web 开发的。 http 模块仅仅是一个 HTTP 服务器内核的封装，你可以用它做任何 HTTP 服务器能做的事 情，不仅仅是做一个网站，甚至实现一个 HTTP 代理服务器都行。你如果想用它直接开发网 站，那么就必须手动实现所有的东西了，小到一个 POST 请求，大到 Cookie、会话的管理。 当你用这种方式建成一个网站的时候，你就几乎已经做好了一个完整的框架了
+
+之所以引用了这一段是因为不管看哪一本入门的node.js书籍，很容易让人产生一个误区。（至少我是这么误解了）http模块并不是直接那来构建web app的。
+
+---
